@@ -30,11 +30,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-* **Nama Fitur:** Peta Kampus
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mengetahui seluk-beluk kampus mereka dengan lebih detail dari pada google maps
-* **Target Pengguna Utama:** Seluruh Civitas Akademi DTETI
-* **Value Proposition:** Memudahkan mahasiswa untuk mencari ruangan atau tempat di kampus yang tidak tersedia di Google Maps
-* **Diajukan oleh:** 473073
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
